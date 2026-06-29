@@ -2,7 +2,7 @@
 
 ## Student Profile
 **Name:** Kristopher John H. Penalosa  
-**Course:** Bachelor of Science in Information Technology 
+**Course:** Bachelor of Science in Information Technology  
 **Section:** Block B
 
 ---
